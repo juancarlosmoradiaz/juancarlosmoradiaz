@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👨‍💻 Juan Carlos Mora Díaz
 
-<!--
-**juancarlosmoradiaz/juancarlosmoradiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería Informática en la Universidad de Granada  
+💡 Interesado en Inteligencia Artificial, Optimización y Desarrollo de Software  
+🚀 Apasionado por aplicar la teoría en proyectos prácticos y útiles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+- Lenguajes: Python, C++, Java, PDDL, CLIPS  
+- Control de versiones: Git & GitHub  
+- Otros: Aprendizaje Automático, Metaheurísticas, Algoritmos de búsqueda, Visión por computador.
+
+---
+
+## 📫 Contacto
+- LinkedIn: [https://www.linkedin.com/in/juancarlosmoradiaz/]
+- Email: **jcarlosmoradiaz2@gmail.com**
+
+---
+⭐ Siempre abierto a colaborar en proyectos interesantes y a seguir aprendiendo
