@@ -18,4 +18,3 @@
 - Email: **jcarlosmoradiaz2@gmail.com**
 
 ---
-⭐ Siempre abierto a colaborar en proyectos interesantes y a seguir aprendiendo
