@@ -9,7 +9,7 @@
 ## 🛠️ Tecnologías y herramientas
 - Lenguajes: Python, C++, Java, PDDL, CLIPS  
 - Control de versiones: Git & GitHub  
-- Otros: Aprendizaje Automático, Metaheurísticas, Algoritmos de búsqueda, Visión por computador.
+- Otros: Deep Learning, Visión por computador, Aprendizaje Automático, Metaheurísticas, Algoritmos de búsqueda.
 
 ---
 
