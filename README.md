@@ -1,7 +1,6 @@
 # 👨‍💻 Juan Carlos Mora Díaz
 
-🎓 Graduado en Ingeniería Informática en la Universidad de Granada (2022-2026)
-💡 Interesado en Inteligencia Artificial, Optimización y Desarrollo de Software  
+🎓 Graduado en Ingeniería Informática en la Universidad de Granada (2022-2026) 
 🚀 Actual estudiante del Máster en Inteligencia Artificial en UDIT
 
 ---
